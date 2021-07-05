@@ -1,6 +1,6 @@
 ## `Whoami`
 ![github](https://user-images.githubusercontent.com/43775190/124498826-387f9000-dde7-11eb-9d4a-39f0384002cb.gif)
-I'm Khoa Vu (a.k.a Kevin Vu), an *software engineer*. My current interest is in *cloud computing* and *DevOps*. I'm also a *certified Cloud Practitioner* and currently on my way to be a *professional Cloud Architect*.
+I'm Khoa Vu (a.k.a Kevin Vu), a new grad *software engineer*. My current interest is in *cloud computing* and *DevOps*. I'm also a *certified Cloud Practitioner* and currently on my way to be a *professional Cloud Architect*.
 
 - 🔭 I’m currently working on **several pet projects**.
 - 🌱 I’m currently learning **AWS Associate Certified Solutions Architect**.
