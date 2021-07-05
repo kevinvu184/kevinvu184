@@ -14,6 +14,10 @@ Special interest in *finance* and *consulting*.
 - 😄 Pronouns: **he/him**.
 - ⚡ Fun fact: **I have a twin.**
 - 😅 Spirit animal: **Llama** -> *"Yay, I'm a llama again"* -Emperor Kuzco-
+- 🥇 Personal value:
+  - Take **full ownership**.
+  - Strive for **technical excellence**.
+  - Be obsessed with **continuous improvement**.
 - 🖼️ Favourite view
 
 ![saigon](https://github.com/kevinvu184/kevinvu184/blob/master/saigon.jpg)
