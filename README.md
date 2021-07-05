@@ -9,4 +9,7 @@ I'm Khoa Vu (a.k.a Kevin Vu), an *software engineer*. My current interest is in 
 - 💬 Ask me about **my past projects**.
 - 📫 How to reach me: **via kevinvu184 at gmail dot com**.
 - 😄 Pronouns: **he/him**.
-- ⚡ Fun fact: **I have a twin**
+- ⚡ Fun fact: **I have a twin.**
+- 🖼️ Favourite view
+
+![saigon](https://github.com/kevinvu184/kevinvu184/blob/master/saigon.jpg)
