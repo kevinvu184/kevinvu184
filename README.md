@@ -5,6 +5,8 @@ I'm Khoa Vu (a.k.a Kevin Vu), a new grad *software engineer*. My current interes
 
 Special interest in *finance* and *consulting*.
 
+Reach me at: kevinvu184@gmail.com
+
 - 🔭 I’m currently working on **several pet projects**.
 - 🌱 I’m currently learning **AWS Associate Certified Solutions Architect**.
 - 👯 I’m looking to collaborate on **anything**.
