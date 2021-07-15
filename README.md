@@ -23,4 +23,4 @@ Reach me at: kevinvu184@gmail.com
 - 🖼️ Favourite view
 
 ![saigon](https://github.com/kevinvu184/kevinvu184/blob/master/saigon.jpg)
-*<p align="center">Night in Saigon, Vietnam.</p>*
+*<p align="center">Saigon by night, Vietnam.</p>*
