@@ -1,7 +1,14 @@
 ## `Whoami`
-![github](https://user-images.githubusercontent.com/43775190/124498826-387f9000-dde7-11eb-9d4a-39f0384002cb.gif)
 
-I'm Khoa Vu (a.k.a Kevin Vu), a new grad *software engineer*.
+<div style="display: flex;justify-content: space-around;">
+<div>
+
+<img src="https://user-images.githubusercontent.com/43775190/129565174-fddaf369-5e6a-4ef6-b96d-c2939b981d93.gif" width="270px"/>
+
+</div>
+<div>
+
+I'm Khoa Vu (a.k.a Kevin Vu), a new grad **software engineer**.
 
 - 😄 Pronouns: **he/him**
 - 🌟 Interest: **software development** and **finance**
@@ -11,10 +18,9 @@ I'm Khoa Vu (a.k.a Kevin Vu), a new grad *software engineer*.
   - Take **full ownership**.
   - Strive for **technical excellence**.
   - Be obsessed with **continuous improvement**.
-- 🖼️ Favourite view:
 
-![saigon](https://github.com/kevinvu184/kevinvu184/blob/master/saigon.jpg)
-*<p align="center">Saigon by night, Vietnam.</p>*
+</div>
+</div>
 
 ## `My Top 100`
 <pre>
