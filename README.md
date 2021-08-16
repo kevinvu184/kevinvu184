@@ -19,7 +19,7 @@ I'm Khoa Vu (a.k.a Kevin Vu), a new grad *software engineer*.
 ## `My Top 100`
 <pre>
 Here is the list of top 100 things I want to do in my life.
-Have any suggestion? Hit me up -> kevin184 at gmail dot com.
+Have any suggestion? Hit me up
 </pre>
 - [ ] Doing live stream coding 
 
