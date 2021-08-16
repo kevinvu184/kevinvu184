@@ -1,9 +1,9 @@
 ## `Whoami`
-<div style="display: flex; justify-content: space-evenly; align-items: center;">
-	<div>
+<table align="center">
+	<td>
 		<img src="https://user-images.githubusercontent.com/43775190/129565174-fddaf369-5e6a-4ef6-b96d-c2939b981d93.gif" width="270px" />
-	</div>
-	<div>
+	</td>
+	<td>
 		<div> I'm Khoa Vu (a.k.a Kevin Vu), a new grad <strong>software engineer</strong>. </div>
 		<ul>
 			<li>😄 Pronouns: <strong>he/him</strong>
@@ -23,8 +23,8 @@
 				</ul>
 			</li>
 		</ul>
-	</div>
-</div>
+	</td>
+</table>
 
 ## `My Top 100`
 <pre>
