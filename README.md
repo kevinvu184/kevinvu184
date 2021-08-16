@@ -26,4 +26,8 @@ Reach me at: kevinvu184@gmail.com
 *<p align="center">Saigon by night, Vietnam.</p>*
 
 ## My Top 💯
+<pre>
+Here is the list of top 100 things I want to do in my life.
+Have any suggestion? Hit me up -> kevin184 at gmail dot com.
+</pre>
 - [ ] Doing live stream coding 
