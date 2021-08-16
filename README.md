@@ -21,7 +21,8 @@ I'm Khoa Vu (a.k.a Kevin Vu), a new grad *software engineer*.
 Here is the list of top 100 things I want to do in my life.
 Have any suggestion? Hit me up
 </pre>
-- [ ] Doing live stream coding 
+- [ ] Doing a live stream coding series.
+- [ ] Have a conference speech.
 
 ## `My Stack`
 <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/ultraviolet/48/000000/react--v1.png"/> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
