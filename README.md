@@ -33,7 +33,7 @@ Have any suggestion? Hit me up
 </pre>
 - [ ] Doing a live stream coding series.
 - [ ] Have a conference speech.
-- [ ] 10k start repo.
+- [ ] Maintain a 10k start repo.
 
 ## `My Stack`
 <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/ultraviolet/48/000000/react--v1.png"/> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
