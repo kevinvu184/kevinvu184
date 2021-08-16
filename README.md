@@ -24,7 +24,7 @@ Have any suggestion? Hit me up
 - [ ] Doing live stream coding 
 
 ## `My Stack`
-<img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/ultraviolet/40/000000/react--v1.png"/> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
+<img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/ultraviolet/48/000000/react--v1.png"/> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
 
 ## `Reach me`
  - kevinvu184  at gmail dot com
