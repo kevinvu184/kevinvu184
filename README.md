@@ -24,3 +24,6 @@ Reach me at: kevinvu184@gmail.com
 
 ![saigon](https://github.com/kevinvu184/kevinvu184/blob/master/saigon.jpg)
 *<p align="center">Saigon by night, Vietnam.</p>*
+
+## My Top 💯
+- [ ] Doing live stream coding 
