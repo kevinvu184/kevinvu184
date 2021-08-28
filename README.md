@@ -14,7 +14,7 @@
 			</li>
 			<li>🦙 Spirit animal: <strong>llama</strong> -> "Yay, I'm a llama again" -Emperor Kuzco- </li>
 			<li> 🥇 Personal value: <ul>
-					<li>Take full <strong>ownership</strong>
+					<li>Take <strong>full ownership</strong>
 					</li>
 					<li>Strive for <strong>technical excellence</strong>
 					</li>
