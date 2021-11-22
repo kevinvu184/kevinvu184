@@ -26,17 +26,16 @@
 	</td>
 </table>
 
-## `My Top 100`
+## `My List`
 <pre>
-Here is the list of top 100 things I want to do in my life.
-Have any suggestion? Hit me up
+Here is the list of top things I want to do in my life.
 </pre>
 - [ ] Doing a live stream coding series.
 - [ ] Have a conference speech.
 - [ ] Maintain a 10k start repo.
 
 ## `My Stack`
-<img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/ultraviolet/48/000000/react--v1.png"/> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
+<img src="https://img.icons8.com/color/96/000000/typescript.png"/> <img src="https://img.icons8.com/color/96/000000/amazon-web-services.png"/>
 
 ## `Reach me`
  - kevinvu184  at gmail dot com
