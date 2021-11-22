@@ -32,8 +32,11 @@ Here is the list of top things I want to do in my life.
 - [ ] Have a conference speech.
 - [ ] Maintain a 10k start repo.
 
-## `My Stack`
-<img src="https://img.icons8.com/color/96/000000/typescript.png"/> <img src="https://img.icons8.com/color/96/000000/amazon-web-services.png"/>
+## `My stack`
+I inject <img src="https://img.icons8.com/color/96/000000/typescript.png"/> to <img src="https://img.icons8.com/color/96/000000/amazon-web-services.png"/>.
+
+## `Current favourite`
+<img src="https://img.icons8.com/color/96/000000/python--v1.png"/>
 
 ## `Reach me`
  - kevinvu184  at gmail dot com
