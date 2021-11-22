@@ -27,9 +27,7 @@
 </table>
 
 ## `My List`
-<pre>
 Here is the list of top things I want to do in my life.
-</pre>
 - [ ] Doing a live stream coding series.
 - [ ] Have a conference speech.
 - [ ] Maintain a 10k start repo.
