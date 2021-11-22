@@ -37,6 +37,3 @@ I inject <img src="https://img.icons8.com/color/96/000000/typescript.png"/> to <
 
 ## `Current favourite`
 <img src="https://img.icons8.com/color/96/000000/python--v1.png"/>
-
-## `Reach me`
- - kevinvu184  at gmail dot com
