@@ -8,7 +8,7 @@
 		<ul>
 			<li>😄 Pronouns: <strong>he/him</strong>
 			</li>
-			<li>🌟 Interest: <strong>software development</strong> and <strong>finance</strong>
+			<li>🌟 Interest: <strong>programming</strong>, <strong>serverless</strong> and <strong>AWS</strong>
 			</li>
 			<li>⚡ Fun fact: <strong>I have a twin</strong>
 			</li>
