@@ -28,12 +28,14 @@
 
 ## `My List`
 Here is the list of top things I want to do in my life.
-- [ ] Doing a live stream coding series.
+- [ ] Create a project-based blog.
+- [ ] Create a live stream coding series.
 - [ ] Have a conference speech.
-- [ ] Maintain a 10k start repo.
+- [ ] Maintain a opensource repo.
 
-## `My stack`
-I inject <img src="https://img.icons8.com/color/96/000000/typescript.png"/> to <img src="https://img.icons8.com/color/96/000000/amazon-web-services.png"/>.
+## `Develop in`
+<img src="https://img.icons8.com/color/96/000000/typescript.png"/> <img src="https://img.icons8.com/color/96/000000/amazon-web-services.png"/>.
 
-## `Current favourite`
-<img src="https://img.icons8.com/color/96/000000/python--v1.png"/>
+## `Looking into`
+- AWS serverless stack
+- AWS SAM + AWS CDK
