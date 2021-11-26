@@ -32,6 +32,7 @@ Here is the list of top things I want to do in my life.
 - [ ] Create a live stream coding series.
 - [ ] Have a conference speech.
 - [ ] Maintain a opensource repo.
+- [ ] Become AWS IQ professional.
 
 ## `Develop in`
 <img src="https://img.icons8.com/color/96/000000/typescript.png"/> <img src="https://img.icons8.com/color/96/000000/amazon-web-services.png"/>
