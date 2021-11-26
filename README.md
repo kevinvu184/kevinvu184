@@ -28,7 +28,7 @@
 
 ## `My List`
 Here is the list of top things I want to do in my life.
-- [ ] Create a project-based <a href="https://bit.ly/3cOKBhG">blog</a>.
+- [ ] Create a project-based <a href="https://kevinvu184.live/blog">blog</a>.
 - [ ] Create a live stream coding series.
 - [ ] Have a conference speech.
 - [ ] Maintain a opensource repo.
