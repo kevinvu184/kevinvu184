@@ -29,9 +29,11 @@
 ## `My List`
 Here is the list of top things I want to do in my life.
 - [ ] Create a project-based <a href="https://kevinvu184.live/blog_github">blog</a>.
+- [ ] Create a podcast series.
 - [ ] Create a live stream coding series.
 - [ ] Have a conference speech.
 - [ ] Maintain a opensource repo.
+- [ ] Get all AWS Certification (2/12).
 - [ ] Do freelancing with AWS IQ.
 
 ## `Develop in`
