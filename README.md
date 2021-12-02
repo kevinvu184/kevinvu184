@@ -10,7 +10,7 @@
 			🐱‍💻 I work at <a href="https://awaydigitalhome.com/">Away Digital</a> as a <strong>software engineer intern</strong>.
 		</p>
 		<p>
-			🛣️ Know about my journey via my CV
+			🛣️ Know about my journey via my <a href="https://kevinvu184.live/resume_github">CV</a>.
 		</p>
 		<p>
 			My motto:
@@ -28,7 +28,7 @@
 
 ## `My List`
 Here is the list of top things I want to do in my life.
-- [ ] Create a project-based <a href="https://kevinvu184.live/blog">blog</a>.
+- [ ] Create a project-based <a href="https://kevinvu184.live/blog_github">blog</a>.
 - [ ] Create a live stream coding series.
 - [ ] Have a conference speech.
 - [ ] Maintain a opensource repo.
