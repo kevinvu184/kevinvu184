@@ -35,6 +35,7 @@ Here is the list of top things I want to do in my life.
 - [ ] Maintain a opensource repo.
 - [ ] Get all AWS Certification (2/12).
 - [ ] Do freelancing with AWS IQ.
+- [ ] Build a tech community.
 
 ## `Develop in`
 <img src="https://img.icons8.com/color/96/000000/typescript.png"/> <img src="https://img.icons8.com/color/96/000000/amazon-web-services.png"/>
