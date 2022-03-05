@@ -1,45 +1,37 @@
-<h3 align="center">A <strong>Software Engineer</strong> based in <strong>Melbourne</strong> with a passion for <strong>Serverless</strong></h3>
+<h1 align="center">G'Day mate 👋, I'm Kevin Vu.</h1>
 
-## `Whoami`
+### `Whoami`
 <table align="center">
 	<td>
 		<img src="https://user-images.githubusercontent.com/43775190/129565174-fddaf369-5e6a-4ef6-b96d-c2939b981d93.gif" width="270px" />
 	</td>
 	<td>
 		<p>
-			🐱‍💻 I work at <a href="https://awaydigitalhome.com/">Away Digital</a> as a <strong>software engineer intern</strong>.
+			🐱‍💻 I'm looking for a junior software engineer position now.
 		</p>
 		<p>
-			🛣️ Know about my journey via my <a href="https://kevinvu184.live/resume_github">CV</a>.
-		</p>
-		<p>
-			My motto:
+			☕ My motto:
 			<ul>
-				<li>Take <strong>full ownership</strong>
+				<li>Take <strong>full ownership</strong>.
 				</li>
-				<li>Strive for <strong>technical excellence</strong>
+				<li>Strive for <strong>technical excellence</strong>.
 				</li>
-				<li>Be obsessed with <strong>continuous improvement</strong>
+				<li>Be obsessed with <strong>continuous improvement</strong>.
 				</li>
 			</ul>
 		</p>
 	</td>
 </table>
 
-## `My List`
-Here is the list of top things I want to do in my life.
-- [ ] Create a project-based <a href="https://kevinvu184.live/blog_github">blog</a>.
+### `My List`
+- [ ] Write a project-based blog.
 - [ ] Create a podcast series.
-- [ ] Create a live stream coding series.
-- [ ] Have a conference speech.
-- [ ] Maintain a opensource repo.
+- [ ] Record a live stream coding series.
+- [ ] Talk at a tech conference.
+- [ ] Maintain an opensource repo.
 - [ ] Get all AWS Certification (2/12).
-- [ ] Do freelancing with AWS IQ.
+- [ ] Do freelancing with AWS.
 - [ ] Build a tech community.
-- [ ] <a href="https://constructs.dev/contribute">Contribute</a> cdk constructs.
 
-## `Develop in`
-<img src="https://img.icons8.com/color/96/000000/typescript.png"/> <img src="https://img.icons8.com/color/96/000000/amazon-web-services.png"/>
-
-## `Looking into`
-- Serverless on AWS
+### `Develop in`
+<img src="https://img.icons8.com/color/96/000000/amazon-web-services.png"/> <img src="https://img.icons8.com/color/96/000000/python--v1.png"/>
