@@ -7,7 +7,7 @@
 	</td>
 	<td>
 		<p>
-			🐱‍💻 I'm looking for a junior software engineer position now.
+			🐱‍💻 I'm looking for a <i>junior software engineer</i> position now.
 		</p>
 		<p>
 			☕ My motto:
