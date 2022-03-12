@@ -22,17 +22,3 @@
 		</p>
 	</td>
 </table>
-
-### `My List`
-- [ ] Write a project-based blog.
-- [ ] Create a podcast series.
-- [ ] Record a live stream coding series.
-- [ ] Talk at a tech conference.
-- [ ] Maintain an opensource repo.
-- [ ] Get all AWS Certification (2/12).
-- [ ] Do freelancing with AWS.
-- [ ] Build a tech community.
-- [ ] Learn Go
-
-### `Develop in`
-<img src="https://img.icons8.com/color/96/000000/amazon-web-services.png"/> <img src="https://img.icons8.com/color/96/000000/python--v1.png"/>
