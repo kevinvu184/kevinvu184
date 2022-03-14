@@ -7,9 +7,6 @@
 	</td>
 	<td>
 		<p>
-			🐱‍💻 I'm looking for a <i>junior software engineer</i> position now.
-		</p>
-		<p>
 			☕ My motto:
 			<ul>
 				<li>Take <strong>full ownership</strong>.
