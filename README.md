@@ -1,4 +1,4 @@
-<h1 align="center">G'Day mate 👋, I'm Kevin Vu.</h1>
+<h1 align="center">G'Day mate 👋, I'm Kevin Vu!</h1>
 
 ### `Whoami`
 <table align="center">
