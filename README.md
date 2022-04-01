@@ -1,4 +1,8 @@
-<h1 align="center">G'Day mate 👋, I'm Kevin Vu!</h1>
+# Welcome to my GitHub profile!
+
+G’Day mate, my name is **Kevin**. I'm a **software engineer** who has great interest in **Serverless on AWS**.
+
+I'm currently developing a hype ecommerce platform at **EQL**.
 
 ### `Who Am I`
 <table align="center">
@@ -19,4 +23,4 @@
 </table>
 
 ### `Tech Stack`
-<img src="https://user-images.githubusercontent.com/43775190/160529904-8e728bfe-e10b-4771-bfc1-c151dc1dc253.png" width="96"> <img src="https://user-images.githubusercontent.com/43775190/160530139-aac090e9-1277-462b-afce-8c6995d3c712.svg" width="96"> <img src="https://user-images.githubusercontent.com/43775190/160529025-8d0bc77c-af63-4940-adb9-f702a4965180.png" width="96"> <img src="https://user-images.githubusercontent.com/43775190/160530529-dae5979f-5a22-4cfb-9738-01d1450133cb.png" width="96">
+<img src="https://user-images.githubusercontent.com/43775190/160529904-8e728bfe-e10b-4771-bfc1-c151dc1dc253.png" width="96"> <img src="https://user-images.githubusercontent.com/43775190/161192204-3b9481f0-bbf5-4a6a-bd6a-620f7829361e.png" width="96"> <img src="https://user-images.githubusercontent.com/43775190/161192126-2e784d2e-9d7e-4a46-98cd-8976d38b099d.png" width="96"> <img src="https://user-images.githubusercontent.com/43775190/160529025-8d0bc77c-af63-4940-adb9-f702a4965180.png" width="96">
