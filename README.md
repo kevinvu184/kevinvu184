@@ -1,8 +1,8 @@
 # Welcome to my GitHub profile!
 
-G’Day mate, my name is **Kevin**. I'm a **software engineer** who has great interest in **Serverless on AWS**.
+My name is **Kevin**. I'm a **software engineer** who has a great interest in **Serverless on AWS**.
 
-I'm currently developing a hype ecommerce platform at **EQL**.
+Currently, I'm developing a hype e-commerce platform at **EQL**.
 
 ### `Who Am I`
 <table align="center">
