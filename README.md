@@ -2,7 +2,7 @@
 
 My name is **Kevin**. I'm a **software engineer** who has a great interest in **Serverless on AWS**.
 
-Currently, I'm developing a hype e-commerce platform at **EQL**.
+Currently, I'm developing a hype commerce platform at **EQL**.
 
 ### `Who Am I`
 <table align="center">
