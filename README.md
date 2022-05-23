@@ -10,7 +10,7 @@ Currently, I'm developing a hype commerce platform at [@OfficiallyEQL](https://e
 		<img src="https://user-images.githubusercontent.com/43775190/129565174-fddaf369-5e6a-4ef6-b96d-c2939b981d93.gif" width="270px" />
 	</td>
 	<td>
-		🎯 My motto:
+		My motto:
 		<ul>
 			<li>Take <strong>full ownership</strong>.
 			</li>
