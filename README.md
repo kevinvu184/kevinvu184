@@ -2,8 +2,6 @@ Hi there! 🖖
 
 Thanks for stopping by my GitHub profile. As a junior developer, I may not have all the answers, but I have a huge growth potential and a passion for learning. 📈 Here are some of the technologies I'm currently working with:
 
-- 🐭 **Golang**: I'm new to Go, but I'm learning quickly and already have a solid foundation in concurrent programming.
-- 🐍 **Python**: I'm no snake charmer, but I can slither my way around a Python codebase with ease.
 - 🦄 **TypeScript**: I'm just getting started with TypeScript, but I'm a TypeScript whiz in the making. Give me a complex type system and I'll conquer it.
 - 💻 **React**: I may be a beginner with React, but I'm eager to learn more and build awesome user interfaces.
 - 💥 **AWS** serverless stack: I may not be a serverless expert yet, but I'm excited to learn and build scalable, cost-effective applications on AWS.
