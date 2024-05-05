@@ -1,3 +1,3 @@
 # Hello 🌊
 
-I'm Kevin, working for EQL, a commerce built for passion. Currently, I'm into frontend development with TypeScript and React.
+My name is Kevin, working @ EQL, a commerce company built for passion. Currently, I'm focusing on frontend development with TypeScript and React.
